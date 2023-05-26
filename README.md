@@ -20,5 +20,6 @@ source install/setup.bash
 ```
 4. Launch the nodes
 ```bash
-ros2 launch tf2_pkg tf2_pkg.launch.py
+ros2 launch tf2_pkg listener.launch.py
 ```
+
